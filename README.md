@@ -1,4 +1,4 @@
-<h1 align="center">Hi there! I'm AGBER TERKUMA AMOS 👋</h1>
+<h1 align="center">Hi there! I'm Chima Okeke 👋</h1>
 <img align='right' width='400' src='https://miro.medium.com/v2/resize:fit:720/1*IRGHmiGsa16stedQvIaZfw.gif'>
 
 - 🔭 I’m currently working on [Designs](https://github.com/TerkumaAmos/Dice)
