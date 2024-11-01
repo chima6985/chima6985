@@ -1,10 +1,10 @@
 <h1 align="center">Hi there! I'm Chima Okeke 👋</h1>
 <img align='right' width='400' src='https://miro.medium.com/v2/resize:fit:720/1*IRGHmiGsa16stedQvIaZfw.gif'>
 
-- 🔭 I’m currently working on [Designs](https://github.com/TerkumaAmos/Dice)
+- 🔭 I’m currently working on [Designs](https://github.com/chima6985/Dice)
 - 🌱 I’m currently learning Dart And Flutter 🎯 
 - 👯 I’m looking to collaborate on open source projects
-- 📫 How to reach me: **<agberterkuma2020@gmail.com>**
+- 📫 How to reach me: **<chimaokeke2006@gmail.com>**
 
 <br>
 <!-- <a href="https://github.com/imisi99/"> -->
@@ -77,8 +77,8 @@ Here are some ideas to get you started:
 <br>
 <h2 align="left">🔥Statistics</h2>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=TerkumaAmos&show_icons=true&locale=en&layout=compact" alt="TerkumaAmos" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chima6985&show_icons=true&locale=en&layout=compact" alt="chima6985" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=TerkumaAmos&show_icons=true&locale=en" alt="TerkumaAmos" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chima6985&show_icons=true&locale=en" alt="chima6985" /></p>
 
 <!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imisi99&" alt="imisi99" /></p> -->
