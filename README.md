@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning Dart And Flutter 🎯 
 - 👯 I’m looking to collaborate on open source projects
 - 📫 How to reach me: **<chimaokeke2006@gmail.com>**
-- <looking to collaborate>**
+- looking to collaborate
 
 <br>
 <!-- <a href="https://github.com/imisi99/"> -->
