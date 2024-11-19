@@ -2,12 +2,12 @@
 <img align='right' width='400' src='https://miro.medium.com/v2/resize:fit:720/1*IRGHmiGsa16stedQvIaZfw.gif'>
 
 - 🔭 I’m currently working on [building highly sophsticated user friendly mobile apps](https://github.com/chima6985/Dice)
-- - 🔭 I’m currently a student of landmark university Omu-Aran
+- - 🔭 I’m currently a student of landmark university Omu-Aran 
 - 🌱 I’m currently learning Dart And Flutter 🎯 
 - 👯 I’m looking to collaborate on open source projects
 - 📫 How to reach me: **<chimaokeke2006@gmail.com>**
 - looking to collaborate
-- Hello world
+  
 
 <br>
 <!-- <a href="https://github.com/imisi99/"> -->
