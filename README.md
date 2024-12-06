@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on open source projects
 - 📫 How to reach me: **<chimaokeke2006@gmail.com>**
 - looking to collaborate on problem solving projects
-- connect through: **<https://x.com/Cokeke06_>**
+- connect with me through: **<https://x.com/Cokeke06_>**
   
 
 <br>
