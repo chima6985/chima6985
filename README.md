@@ -5,7 +5,7 @@
 - 🌱 I’m currently and continually trying to develop my skills with the use of Dart🎯 And Flutter, to build high quality, cross platform mobile apps
 - 👯 I’m looking to collaborate on open source projects
 - 📫 How to reach me: **<chimaokeke2006@gmail.com>**
-- looking to collaborate on problem solving projects
+- looking to collaborate 
 - connect with me through: **<https://x.com/Cokeke06_>**
   
 
