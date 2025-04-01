@@ -1,4 +1,4 @@
-<h1 align="center">Hi there! I'm Chima Okeke Onyedikachi Chianugo . 👋</h1>
+<h1 align="center">Hi there! I'm Chima Okeke Onyedikachi. 👋</h1>
 <img align='right' width='400' src='https://miro.medium.com/v2/resize:fit:720/1*IRGHmiGsa16stedQvIaZfw.gif'>
 
 - 🔭 I’m currently working on [building highly sophsticated user friendly mobile apps](https://github.com/chima6985/Dice)
